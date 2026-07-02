@@ -6,3 +6,6 @@ def test2():
     
 def pay():
     print('pay function improved again')
+    
+def func1():
+    print('func function')
